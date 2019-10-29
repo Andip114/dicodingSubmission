@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotaSejarah</string>
+    <string name="kota">Nama Kota</string>
+    <string name="detail">Detail Kota</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="nama_kota">Nama Kota</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="about">About</string>
+</resources>
